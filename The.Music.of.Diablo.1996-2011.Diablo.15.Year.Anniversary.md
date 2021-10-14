@@ -10,7 +10,7 @@ index|name|remark
 04 | Catacombs |
 05 | Caves|
 06 | Hell |
-07 | Ancients | Lord of Destruction Intro, actually longer than game title.
+07 | Ancients | Lord of Destruction Intro, prelude actually longer than game title.
 08 | Fortress |
 09 | Ice Caves |
 10 | Siege |
