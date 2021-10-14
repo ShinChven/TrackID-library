@@ -1,6 +1,6 @@
 # 宇宙の騎士テッカマンブレード Blu-ray BOX【初回限定生産版】 - DISC10 - SINGLE COLLECTION
 
-trackid|name|artist|remark
+index|name|artist|remark
 -|-|-|-
 1|REASON|小坂由美子|宇宙の騎士テッカマンブレードOP
 2|ENERGY OF LOVE|小坂由美子|宇宙の騎士テッカマンブレードED
